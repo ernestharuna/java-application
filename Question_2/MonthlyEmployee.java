@@ -10,4 +10,8 @@ public class MonthlyEmployee extends Employee {
     public double getSalary() {
         return super.getSalary();
     }
+
+    public static void main(String[] args) {
+
+    }
 }

@@ -15,4 +15,8 @@ public class Manager extends MonthlyEmployee {
     public double getSalary() {
         return super.getSalary() + bonus;
     }
+
+    public static void main(String[] args) {
+
+    }
 }

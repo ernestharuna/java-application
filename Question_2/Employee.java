@@ -16,4 +16,8 @@ public class Employee {
     public double getSalary() {
         return salary;
     }
+
+    public static void main(String[] args) {
+
+    }
 }

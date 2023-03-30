@@ -21,6 +21,10 @@ public class Employee extends Person {
     public String toString() {
         return super.toString() + "\nID: " + ID + "\nPay Rate: " + payRate;
     }
+
+    public static void main(String[] args) {
+
+    }
 }
 
 /*

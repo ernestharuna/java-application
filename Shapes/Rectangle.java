@@ -13,4 +13,8 @@ public class Rectangle extends TestShapes {
     public String toString() {
         return "Rectangle with breadth " + breadth + " and length " + length;
     }
+
+    public static void main(String[] args) {
+
+    }
 }

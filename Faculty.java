@@ -31,6 +31,10 @@ public class Faculty extends Employee {
     public void setTeachingCourses(Course[] teachingCourses) {
         this.teachingCourses = teachingCourses;
     }
+
+    public static void main(String[] args) {
+
+    }
 }
 
 /*

@@ -26,4 +26,8 @@ public class Course {
     public String toString() {
         return "Course Code: " + code + "\nCourse Title: " + title;
     }
+
+    public static void main(String[] args) {
+
+    }
 }

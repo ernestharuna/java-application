@@ -15,4 +15,8 @@ public class HourlyEmployee extends Employee {
         return hourlyRate * hoursWorked;
     }
 
+    public static void main(String[] args) {
+
+    }
+
 }

@@ -11,4 +11,8 @@ public class Circle extends TestShapes {
     public String toString() {
         return "Circle with radius " + radius;
     }
+
+    public static void main(String[] args) {
+
+    }
 }
