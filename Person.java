@@ -16,6 +16,11 @@ public class Person {
     public String toString() {
         return "Person name = " + name;
     }
+
+    public static void main(String[] args) {
+        Person myObj = new Person("Ernest");
+        System.out.println(myObj);
+    }
 }
 
 /*
